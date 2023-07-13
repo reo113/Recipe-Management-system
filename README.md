@@ -1,4 +1,3 @@
-
 Recipe Management System
 A recipe management system built using Node.js, Express.js, and Sequelize.
 
